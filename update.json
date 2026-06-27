@@ -1,7 +1,7 @@
     {
       "versionCode": 4,
-      "versionName": "6.1",
-      "apkUrl": "https://github.com/italloSoares/chaveiro/raw/refs/heads/main/app-debug.apk",
+      "versionName": "6.2",
+      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v6.2/app-debug.apk",
       "releaseNotes": "- Correções no gráfico"
     }
     
