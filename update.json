@@ -1,7 +1,7 @@
     {
-      "versionCode": 24,
-      "versionName": "8.2",
-      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v8.2/app-debug.apk",
+      "versionCode": 25,
+      "versionName": "8.3",
+      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v8.3/app-debug.apk",
       "releaseNotes": "- implementação da venda com saida no estoque automatica"
     }
     
