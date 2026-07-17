@@ -1,7 +1,7 @@
     {
-      "versionCode": 35,
-      "versionName": "9.3",
-      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.3/app-debug.apk",
-      "releaseNotes": "- Correção da correção da correção da correção"
+      "versionCode": 36,
+      "versionName": "9.4",
+      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.4/app-debug.apk",
+      "releaseNotes": "- Implementação das funcionalidades no cadastro de clientes"
     }
     
