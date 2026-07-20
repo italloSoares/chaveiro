@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "9.9",
-  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v.9.9/app-debug.apk",
-  "desktopVersionCode": 41,
-  "desktopVersionName": "9.9",
-  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v.9.9/ChaveiroMedeiros-1.0.0.msi",
+  "versionCode": 42,
+  "versionName": "10.0",
+  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v.10.0/app-debug.apk",
+  "desktopVersionCode": 42,
+  "desktopVersionName": "10.0",
+  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v.10.0/ChaveiroMedeiros-1.0.0.msi",
   "releaseNotes": "- Novas melhorias no sistema"
 }
