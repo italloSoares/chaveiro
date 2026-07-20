@@ -1,7 +1,9 @@
-    {
-      "versionCode": 40,
-      "versionName": "9.8",
-      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.8/app-debug.apk",
-      "releaseNotes": "- Implementação da sincronização com firebase e versão de pc"
-    }
-    
+{
+  "versionCode": 41,
+  "versionName": "9.9",
+  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.9/ChaveiroMedeiros",
+  "desktopVersionCode": 41,
+  "desktopVersionName": "9.9",
+  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.9/ChaveiroMedeirosPC",
+  "releaseNotes": "- Novas melhorias no sistema"
+}
