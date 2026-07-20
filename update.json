@@ -1,7 +1,7 @@
     {
-      "versionCode": 39,
-      "versionName": "9.7",
-      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.7/app-debug.apk",
+      "versionCode": 40,
+      "versionName": "9.8",
+      "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v9.8/app-debug.apk",
       "releaseNotes": "- Implementação da sincronização com firebase e versão de pc"
     }
     
