@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "10.3",
-  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v10.3/app-debug.apk",
-  "desktopVersionCode": 45,
-  "desktopVersionName": "10.3",
-  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v10.3/ChaveiroMedeiros-10.3.0.msi",
+  "versionCode": 47,
+  "versionName": "10.5",
+  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v10.5/app-debug.apk",
+  "desktopVersionCode": 47,
+  "desktopVersionName": "10.5",
+  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v10.5/ChaveiroMedeiros-10.5.0.msi",
   "releaseNotes": "- Novas melhorias no sistema"
 }
